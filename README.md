@@ -1,2 +1,2 @@
 # DnD-INFO
-Just my personal files about D&amp;D to sistemyze
+Just my personal files about D&amp;D to systemize
