@@ -104,7 +104,7 @@ body {
 }
 
 .section-heading h2 {
-  font-size: 36px;
+  font-size: 27px;
   font-weight: 700;
   text-transform: capitalize;
   margin-top: 20px;
@@ -1054,7 +1054,7 @@ Services Style
 }
 
 .page-heading h3 {
-  font-size: 48px;
+  font-size: 36px;
   text-transform: uppercase;
   color: #fff;
   margin-top: 20px;
@@ -1387,11 +1387,16 @@ Services Style
 
 .contact-page .left-text ul li span {
   display: block;
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 600;
   color: #4a4a4a;
   margin-bottom: 5px;
 }
+
+.contact-page .left-text ul li img {
+  margin-left: -55px;
+}
+
 
 .contact-page .right-content {
   margin-left: 50px;
