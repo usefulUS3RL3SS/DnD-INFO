@@ -1040,7 +1040,7 @@ Services Style
   background-size: cover;
   padding: 200px 0px 0px 0px;
   text-align: center;
-  word-break: break-all;
+  word-break: break-word;
 }
 
 .page-heading span {
@@ -1506,7 +1506,7 @@ Services Style
 
 
 span {
-  word-break: break-all;
+  word-break: break-word;
 }
 
 
