@@ -1040,6 +1040,7 @@ Services Style
   background-size: cover;
   padding: 200px 0px 0px 0px;
   text-align: center;
+  word-break: break-all;
 }
 
 .page-heading span {
@@ -1490,13 +1491,18 @@ Services Style
 
 .contact-page .right-text ul li span {
   display: block;
-  font-size: 40px;
+  font-size: 36px;
   font-weight: 600;
   color: #4a4a4a;
   margin-bottom: 5px;
 }
 
 
+
+
+span {
+  word-break: break-all;
+}
 
 
 body {
